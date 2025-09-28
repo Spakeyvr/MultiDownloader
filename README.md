@@ -16,7 +16,7 @@ It makes grabbing content from your favorite platforms fast and easy by removing
 
 ## How to Use
 1. [Download the latest version](https://github.com/Spakeyvr/Multidownloader/releases/tag/1.0)
-2. Open MultiDownloader from your desktop or start menu  
+2. Open MultiDownloader from your desktop
 4. Paste a video link, pick your download settings, hit Download  
 
 ---
