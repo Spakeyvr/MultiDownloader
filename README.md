@@ -1,7 +1,7 @@
 # MultiDownloader
 
 MultiDownloader is a free video and audio downloader with a simple GUI.  
-It makes grabbing content from your favorite platforms fast and easy — no command line needed.
+It makes grabbing content from your favorite platforms fast and easy by removing the need for a command line!
 
 ---
 
@@ -36,4 +36,4 @@ It makes grabbing content from your favorite platforms fast and easy — no comm
 
 ## License
 This project is released under the MIT License.  
-Feel free to fork, modify, and share — just don’t sell it as your own.
+Feel free to fork, modify, and share but don't try selling it as your own.
