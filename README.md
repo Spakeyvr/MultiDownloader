@@ -36,4 +36,4 @@ It makes grabbing content from your favorite platforms fast and easy by removing
 
 ## License
 This project is released under the MIT License.  
-Feel free to fork, modify, and share but don't try selling it as your own.
+Feel free to fork, modify, and share, but don't try selling it as your own.
